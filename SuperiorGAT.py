@@ -1,6 +1,6 @@
 """
 SuperiorGAT LiDAR Reconstruction
-================================
+===================================
 
 This script reproduces the per-frame LiDAR elevation reconstruction protocol used
 in the SuperiorGAT manuscript. It simulates structured beam dropout, reconstructs
